@@ -5,17 +5,10 @@ layout: default
 <div class="home">
 
   <h1 class="page-heading">Applications</h1>
-
-  <ul class="page-list">
-    {% for page in site.pages %}
-      <li>
-        <h2>
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+    <h2>
+      <a class="page-link" href="/apps/play-500">Play500</a>
+    </h2>
+    <h2>
+      <a class="page-link" href="/apps/score-500">Score500</a>
+    </h2>
 </div>

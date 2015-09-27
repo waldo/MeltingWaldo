@@ -1,8 +1,8 @@
 # Site settings
 title: MeltingWaldo
-email: ben.walsham@meltingwaldo.com
+owner: Waldo
 description: > 
-  We have a couple of iOS 500 applications - Play500 and Score Five Hundred, enjoy.
+  We have a couple of iOS 500 applications - Play500 and Score500. Enjoy.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.meltingwaldo.com" # the base hostname & protocol for your site
 twitter_username: meltingwaldo
